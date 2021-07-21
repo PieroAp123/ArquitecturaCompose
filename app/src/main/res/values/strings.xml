@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aplication</string>
+    <string name="certificate_location">client.p12</string>
+    <string name="certificate_password">everis123</string>
+</resources>
